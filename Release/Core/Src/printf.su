@@ -1,0 +1,15 @@
+printf.c:133:20:_out_buffer	0	static
+printf.c:142:20:_out_null	0	static
+printf.c:160:20:_out_fct	0	static
+printf.c:149:20:_out_char	16	static
+printf.c:228:15:_ntoa_format	48	static
+printf.c:468:15:_etoa.part.0	144	static
+printf.c:340:15:_ftoa.part.1	112	static
+printf.c:340:15:_ftoa	48	static
+printf.c:578:12:_vsnprintf	144	static
+printf.c:863:5:printf_	24	static
+printf.c:874:5:sprintf_	28	static
+printf.c:884:5:snprintf_	24	static
+printf.c:894:5:vprintf_	24	static
+printf.c:901:5:vsnprintf_	16	static
+printf.c:907:5:fctprintf	32	static

@@ -1,0 +1,2 @@
+dfu.c:10:6:DfuCheck	8	static,ignoring_inline_asm
+dfu.c:26:6:dfu_run_bootloader	0	static,ignoring_inline_asm

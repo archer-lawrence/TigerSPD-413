@@ -1,0 +1,6 @@
+MainTask.c:137:6:StartTaskMain	48	static
+jsmn.h:268:14:jsmn_parse	48	static
+jsmn.h:459:15:jsmn_init	0	static
+MainTask.c:41:6:StartThreads	240	static
+MainTask.c:90:10:SendMessage	0	static
+MainTask.c:121:6:ShowMenu	16	static
